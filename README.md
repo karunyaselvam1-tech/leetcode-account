@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
