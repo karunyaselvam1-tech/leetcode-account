@@ -1,4 +1,7 @@
 # leetcode-account
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/karunyaselvam?theme=dark&font=Mukta%20Vaani)
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
