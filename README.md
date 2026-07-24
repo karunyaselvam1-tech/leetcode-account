@@ -27,6 +27,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0023-merge-k-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -101,4 +102,13 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
