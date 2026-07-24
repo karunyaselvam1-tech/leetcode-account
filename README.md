@@ -58,6 +58,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0032-longest-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0032-longest-valid-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0032-longest-valid-parentheses) |
 ## Binary Search
 |  |
 | ------- |
