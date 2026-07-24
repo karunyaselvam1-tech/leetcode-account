@@ -16,6 +16,7 @@
 | [0018-4sum](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0042-trapping-rain-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,12 +78,14 @@
 | [0016-3sum-closest](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
@@ -107,6 +110,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0042-trapping-rain-water) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,4 +132,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0037-sudoku-solver) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
