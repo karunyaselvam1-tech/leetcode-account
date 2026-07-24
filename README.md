@@ -8,6 +8,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0015-3sum) |
@@ -89,4 +90,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
