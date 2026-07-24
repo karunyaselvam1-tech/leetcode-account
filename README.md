@@ -15,6 +15,7 @@
 | [0016-3sum-closest](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0041-first-missing-positive) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0041-first-missing-positive) |
 ## Linked List
 |  |
 | ------- |
