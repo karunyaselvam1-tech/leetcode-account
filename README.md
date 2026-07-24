@@ -28,6 +28,7 @@
 | [0002-add-two-numbers](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0025-reverse-nodes-in-k-group) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0025-reverse-nodes-in-k-group) |
 ## String
 |  |
 | ------- |
