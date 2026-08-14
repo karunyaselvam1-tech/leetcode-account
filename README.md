@@ -150,4 +150,8 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
