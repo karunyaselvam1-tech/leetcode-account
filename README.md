@@ -18,6 +18,7 @@
 | [0041-first-missing-positive](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0042-trapping-rain-water) |
 | [0179-largest-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0179-largest-number) |
+| [0643-maximum-average-subarray-i](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0643-maximum-average-subarray-i) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -73,6 +74,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0643-maximum-average-subarray-i](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
