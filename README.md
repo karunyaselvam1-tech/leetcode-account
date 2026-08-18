@@ -18,6 +18,7 @@
 | [0041-first-missing-positive](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0042-trapping-rain-water) |
 | [0179-largest-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0643-maximum-average-subarray-i) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
@@ -31,6 +32,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0041-first-missing-positive) |
+| [0268-missing-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 | [0009-palindrome-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Recursion
 |  |
@@ -108,6 +111,7 @@
 | [0016-3sum-closest](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0018-4sum) |
 | [0179-largest-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -123,6 +127,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -162,4 +167,8 @@
 | [0176-second-highest-salary](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0178-rank-scores) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
