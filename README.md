@@ -19,6 +19,7 @@
 | [0042-trapping-rain-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0042-trapping-rain-water) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0324-wiggle-sort-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0643-maximum-average-subarray-i) |
@@ -50,6 +51,7 @@
 | [0009-palindrome-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0013-roman-to-integer) |
+| [0204-count-primes](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Recursion
@@ -160,6 +162,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
 |  |
@@ -200,4 +203,20 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
