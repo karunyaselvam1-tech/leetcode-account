@@ -1,30 +1,41 @@
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
 
-
+   
         if not digits:
             return []
-        
-        digit_to_letters = {
-            '2': 'abc',
-            '3': 'def',
-            '4': 'ghi',
-            '5': 'jkl',
-            '6': 'mno',
-            '7': 'pqrs',
-            '8': 'tuv',
-            '9': 'wxyz',
+
+        phone = {
+            "0":"",
+            "1":"",
+            "2": "abc",
+            "3": "def",
+            "4": "ghi",
+            "5": "jkl",
+            "6": "mno",
+            "7": "pqrs",
+            "8": "tuv",
+            "9": "wxyz"
         }
 
-        def backtrack(idx, comb):
-            if idx == len(digits):
-                res.append(comb[:])
+        result = []
+        path = []
+
+        def backtrack(index):
+            # Base case
+            if index == len(digits):
+                result.append("".join(path))
                 return
-            
-            for letter in digit_to_letters[digits[idx]]:
-                backtrack(idx + 1, comb + letter)
 
-        res = []
-        backtrack(0, "")
+            letters = phone[digits[index]]
 
-        return res
+            for letter in letters:
+                path.append(letter)
+
+                backtrack(index + 1)
+
+                path.pop()
+
+        backtrack(0)
+
+        return result
