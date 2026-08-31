@@ -18,6 +18,7 @@
 | [0041-first-missing-positive](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0042-trapping-rain-water) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0268-missing-number) |
@@ -54,6 +55,7 @@
 | [0009-palindrome-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0013-roman-to-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -137,6 +139,7 @@
 | [0020-valid-parentheses](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Binary Search
 |  |
 | ------- |
