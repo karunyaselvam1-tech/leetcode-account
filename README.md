@@ -24,6 +24,7 @@
 | [0268-missing-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0324-wiggle-sort-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0643-maximum-average-subarray-i) |
+| [0778-swim-in-rising-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0778-swim-in-rising-water) |
 | [0806-number-of-lines-to-write-string](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0806-number-of-lines-to-write-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
@@ -146,6 +147,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0268-missing-number) |
+| [0778-swim-in-rising-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0778-swim-in-rising-water) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -157,6 +159,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0023-merge-k-sorted-lists) |
+| [0778-swim-in-rising-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0778-swim-in-rising-water) |
 ## Merge Sort
 |  |
 | ------- |
@@ -165,6 +168,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0037-sudoku-solver) |
+| [0778-swim-in-rising-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0778-swim-in-rising-water) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -241,4 +245,24 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0187-repeated-dna-sequences) |
+## Depth-First Search
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0778-swim-in-rising-water) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0778-swim-in-rising-water) |
+## Union-Find
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0778-swim-in-rising-water) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0778-swim-in-rising-water) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
