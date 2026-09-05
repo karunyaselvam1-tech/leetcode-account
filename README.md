@@ -252,15 +252,18 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0684-redundant-connection) |
 | [0778-swim-in-rising-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0778-swim-in-rising-water) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0684-redundant-connection) |
 | [0778-swim-in-rising-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0778-swim-in-rising-water) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Union-Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0684-redundant-connection) |
 | [0778-swim-in-rising-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0778-swim-in-rising-water) |
 ## Minimax
 |  |
@@ -270,4 +273,8 @@
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0778-swim-in-rising-water) |
+## Graph Theory
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
