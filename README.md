@@ -26,6 +26,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0643-maximum-average-subarray-i) |
 | [0778-swim-in-rising-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0778-swim-in-rising-water) |
 | [0806-number-of-lines-to-write-string](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0806-number-of-lines-to-write-string) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -169,6 +170,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0037-sudoku-solver) |
 | [0778-swim-in-rising-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0778-swim-in-rising-water) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -253,6 +255,7 @@
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0778-swim-in-rising-water) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Union-Find
 |  |
 | ------- |
