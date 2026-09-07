@@ -36,6 +36,7 @@
 | [0523-continuous-subarray-sum](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0724-find-pivot-index) |
 | [0778-swim-in-rising-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0778-swim-in-rising-water) |
 | [0806-number-of-lines-to-write-string](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0806-number-of-lines-to-write-string) |
@@ -196,6 +197,7 @@
 | [0268-missing-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0778-swim-in-rising-water) |
 ## Divide and Conquer
 |  |
