@@ -26,6 +26,7 @@
 | [0268-missing-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0303-range-sum-query-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0324-wiggle-sort-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0724-find-pivot-index) |
 | [0778-swim-in-rising-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0778-swim-in-rising-water) |
@@ -45,6 +46,7 @@
 | [0041-first-missing-positive](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0041-first-missing-positive) |
 | [0187-repeated-dna-sequences](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
 | ------- |
@@ -307,5 +309,6 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
