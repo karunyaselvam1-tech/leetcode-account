@@ -158,6 +158,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0191-number-of-1-bits) |
 | [0324-wiggle-sort-ii](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0324-wiggle-sort-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -203,6 +204,7 @@
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0268-missing-number) |
 ## Quickselect
 |  |
