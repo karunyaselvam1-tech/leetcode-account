@@ -38,6 +38,7 @@
 | [0806-number-of-lines-to-write-string](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0806-number-of-lines-to-write-string) |
 | [0904-fruit-into-baskets](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0904-fruit-into-baskets) |
 | [0969-pancake-sorting](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0969-pancake-sorting) |
+| [0973-k-closest-points-to-origin](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0973-k-closest-points-to-origin) |
 | [1051-height-checker](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1051-height-checker) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -79,6 +80,7 @@
 | [0204-count-primes](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0523-continuous-subarray-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Recursion
 |  |
@@ -160,6 +162,7 @@
 | [0268-missing-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0324-wiggle-sort-ii) |
 | [0969-pancake-sorting](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0969-pancake-sorting) |
+| [0973-k-closest-points-to-origin](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0973-k-closest-points-to-origin) |
 | [1051-height-checker](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1051-height-checker) |
 ## Backtracking
 |  |
@@ -191,12 +194,14 @@
 | [0191-number-of-1-bits](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0324-wiggle-sort-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0215-kth-largest-element-in-an-array) |
 | [0778-swim-in-rising-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0778-swim-in-rising-water) |
+| [0973-k-closest-points-to-origin](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -244,6 +249,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0324-wiggle-sort-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0973-k-closest-points-to-origin) |
 ## String Matching
 |  |
 | ------- |
@@ -357,4 +363,12 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1051-height-checker) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
