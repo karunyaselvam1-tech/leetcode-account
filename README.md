@@ -61,6 +61,7 @@
 | [0037-sudoku-solver](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0041-first-missing-positive) |
 | [0187-repeated-dna-sequences](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -115,6 +116,7 @@
 | [0032-longest-valid-parentheses](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0032-longest-valid-parentheses) |
 | [0179-largest-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0451-sort-characters-by-frequency) |
 | [0806-number-of-lines-to-write-string](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0806-number-of-lines-to-write-string) |
@@ -169,6 +171,7 @@
 | [0018-4sum](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0018-4sum) |
 | [0179-largest-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0324-wiggle-sort-ii) |
