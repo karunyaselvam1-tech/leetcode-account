@@ -22,6 +22,7 @@
 | [0179-largest-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0303-range-sum-query-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0324-wiggle-sort-ii) |
@@ -95,6 +96,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0187-repeated-dna-sequences](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
@@ -152,6 +154,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0268-missing-number) |
 | [0778-swim-in-rising-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0778-swim-in-rising-water) |
 ## Divide and Conquer
@@ -302,6 +305,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
