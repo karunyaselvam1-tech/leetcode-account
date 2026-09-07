@@ -47,6 +47,7 @@
 | [1051-height-checker](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1051-height-checker) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1122-relative-sort-array](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1122-relative-sort-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -202,6 +203,7 @@
 | [0493-reverse-pairs](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0778-swim-in-rising-water) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Divide and Conquer
 |  |
 | ------- |
