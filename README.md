@@ -44,6 +44,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0973-k-closest-points-to-origin) |
 | [1051-height-checker](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1051-height-checker) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1122-relative-sort-array](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1122-relative-sort-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@
 | [0523-continuous-subarray-sum](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0904-fruit-into-baskets) |
+| [1122-relative-sort-array](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1122-relative-sort-array) |
 ## Linked List
 |  |
 | ------- |
@@ -171,6 +173,7 @@
 | [0969-pancake-sorting](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0973-k-closest-points-to-origin) |
 | [1051-height-checker](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1122-relative-sort-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -375,10 +378,12 @@
 | [0274-h-index](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0451-sort-characters-by-frequency) |
 | [1051-height-checker](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1122-relative-sort-array) |
 ## Geometry
 |  |
 | ------- |
@@ -407,4 +412,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0493-reverse-pairs) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
