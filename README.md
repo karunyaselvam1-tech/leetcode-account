@@ -31,6 +31,7 @@
 | [0303-range-sum-query-immutable](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0303-range-sum-query-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0324-wiggle-sort-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0493-reverse-pairs](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0643-maximum-average-subarray-i) |
@@ -189,6 +190,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0493-reverse-pairs) |
 | [0778-swim-in-rising-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0778-swim-in-rising-water) |
 ## Divide and Conquer
 |  |
@@ -199,6 +201,7 @@
 | [0191-number-of-1-bits](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0324-wiggle-sort-ii) |
+| [0493-reverse-pairs](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0493-reverse-pairs) |
 | [0973-k-closest-points-to-origin](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
@@ -212,6 +215,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0493-reverse-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -383,4 +387,20 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0451-sort-characters-by-frequency) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
