@@ -36,6 +36,7 @@
 | [0778-swim-in-rising-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0778-swim-in-rising-water) |
 | [0806-number-of-lines-to-write-string](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0806-number-of-lines-to-write-string) |
 | [0904-fruit-into-baskets](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0904-fruit-into-baskets) |
+| [0969-pancake-sorting](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0969-pancake-sorting) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
@@ -125,6 +126,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0287-find-the-duplicate-number) |
+| [0969-pancake-sorting](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0969-pancake-sorting) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 | [0011-container-with-most-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0324-wiggle-sort-ii) |
+| [0969-pancake-sorting](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0969-pancake-sorting) |
 ## Trie
 |  |
 | ------- |
@@ -153,6 +156,7 @@
 | [0179-largest-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0324-wiggle-sort-ii) |
+| [0969-pancake-sorting](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0969-pancake-sorting) |
 ## Backtracking
 |  |
 | ------- |
