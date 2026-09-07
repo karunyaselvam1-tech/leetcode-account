@@ -33,6 +33,7 @@
 | [0724-find-pivot-index](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0724-find-pivot-index) |
 | [0778-swim-in-rising-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0778-swim-in-rising-water) |
 | [0806-number-of-lines-to-write-string](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0806-number-of-lines-to-write-string) |
+| [0904-fruit-into-baskets](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0904-fruit-into-baskets) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
@@ -50,6 +51,7 @@
 | [0268-missing-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0904-fruit-into-baskets) |
 ## Linked List
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 | [0187-repeated-dna-sequences](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
