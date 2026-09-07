@@ -26,6 +26,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0303-range-sum-query-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0324-wiggle-sort-ii) |
@@ -162,6 +163,7 @@
 | [0179-largest-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0324-wiggle-sort-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0451-sort-characters-by-frequency) |
 | [0969-pancake-sorting](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0969-pancake-sorting) |
@@ -362,6 +364,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0451-sort-characters-by-frequency) |
 | [1051-height-checker](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1051-height-checker) |
 ## Bubble Sort
