@@ -37,6 +37,7 @@
 | [0806-number-of-lines-to-write-string](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0806-number-of-lines-to-write-string) |
 | [0904-fruit-into-baskets](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0904-fruit-into-baskets) |
 | [0969-pancake-sorting](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0969-pancake-sorting) |
+| [1051-height-checker](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1051-height-checker) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
@@ -157,6 +158,7 @@
 | [0268-missing-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0324-wiggle-sort-ii) |
 | [0969-pancake-sorting](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0969-pancake-sorting) |
+| [1051-height-checker](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1051-height-checker) |
 ## Backtracking
 |  |
 | ------- |
@@ -342,4 +344,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0287-find-the-duplicate-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
