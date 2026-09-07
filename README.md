@@ -25,6 +25,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0303-range-sum-query-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0324-wiggle-sort-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -123,6 +124,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0042-trapping-rain-water) |
+| [0287-find-the-duplicate-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -170,6 +172,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0287-find-the-duplicate-number) |
 | [0778-swim-in-rising-water](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0778-swim-in-rising-water) |
 ## Divide and Conquer
 |  |
@@ -225,6 +228,7 @@
 | [0190-reverse-bits](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0287-find-the-duplicate-number) |
 ## Quickselect
 |  |
 | ------- |
@@ -328,5 +332,10 @@
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0523-continuous-subarray-sum) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
