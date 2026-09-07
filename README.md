@@ -27,6 +27,7 @@
 | [0268-missing-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0303-range-sum-query-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0324-wiggle-sort-ii) |
+| [0523-continuous-subarray-sum](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0724-find-pivot-index) |
@@ -47,6 +48,7 @@
 | [0041-first-missing-positive](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0041-first-missing-positive) |
 | [0187-repeated-dna-sequences](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
@@ -67,6 +69,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0523-continuous-subarray-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Recursion
 |  |
@@ -311,6 +314,11 @@
 | [0209-minimum-size-subarray-sum](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0724-find-pivot-index) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/karunyaselvam1-tech/leetcode-account/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
